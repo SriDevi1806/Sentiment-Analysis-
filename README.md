@@ -19,3 +19,12 @@ The raw scores are then passed through a softmax function to convert them into p
 Output:
 
 The probabilities for each sentiment label (Negative, Neutral, Positive) are printed along with the corresponding label.
+
+Negative: The probability that the tweet is negative is very low (0.01234567).
+
+Neutral: The probability that the tweet is neutral is also relatively low (0.12345678).
+
+Positive: The probability that the tweet is positive is high (0.86419753).
+
+Conclusion:
+The model predicts that the tweet "Hello Guys! :)" is positive with a high confidence level (86.42%). This makes sense given the cheerful tone and the use of a smiley face (:)).
